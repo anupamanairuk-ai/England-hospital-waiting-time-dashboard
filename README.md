@@ -2,8 +2,7 @@
 
 An interactive dashboard comparing NHS hospital waiting times across England's 36 Integrated Care Boards (ICBs), January to September 2026.
 
-**Live dashboard:** https://YOUR-USERNAME.github.io/YOUR-REPO/  *(replace after you switch on GitHub Pages)*
-
+**Live dashboard:** (https://anupamanairuk-ai.github.io/England-hospital-waiting-time-dashboard/)
 ## What it shows
 - Share of people waiting less than 18 weeks, against the 92% NHS Constitution standard
 - People waiting **per 100,000 residents**, so large and small areas compare fairly
